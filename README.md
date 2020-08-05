@@ -1,5 +1,3 @@
 # DFRWS-USA-2020
 
-This is the online repository for the paper "Hiding Process Memory via Anti-Forensic Techniques". It contains all material referenced in the paper.
-
-The content will be updated in July 2020, shortly before DFRWS US 2020.
+The online repository for the paper "Hiding Process Memory via Anti-Forensic Techniques" can be found [here](https://github.com/DFRWS-memory-subversion/DFRWS-USA-2020).
